@@ -16,12 +16,6 @@
     .gallery-item {
       flex: 1 1 percentage(1/3);
       transition: opacity 1s ease;
-      &:nth-child(1) {
-      }
-      &:nth-child(2) {
-      }
-      &:nth-child(3) {
-      }
     }
   }
 </style>
