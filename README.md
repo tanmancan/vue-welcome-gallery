@@ -11,3 +11,7 @@ Has two properties, first is the path to a directory containing the images, and 
 </welcome-gallery>
 ```
 
+---
+License: [GPL](LICENSE)
+
+&copy; Tanveer Karim www.tkarimdesign.com
